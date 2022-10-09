@@ -1,0 +1,12 @@
+!!!!  10 Git commands with their usage.
+
+1. git clone - used to clone a repo from github
+2. git merge - used to merge two branches of a repo
+3. git init - used to initialize a repo
+4. git add . - used to add all stage all untracked files
+5. git commit -m "" - used to commit all files
+6. git status - shows status of all the files
+7. git push - used to push repo it to github
+8. git pull - used to pull repo from github
+9. git branch <branchname> - used to create a branch
+10. git checkout <> - used to checkout to a branch or commit
