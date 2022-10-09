@@ -1,0 +1,42 @@
+commit c21ef76d7cd8f3a6332d101348bb31b5592b93d7 (HEAD -> main)
+Author: CHIRAG AGARWAL <chiragagarwal07052001@gmail.com>
+Date:   Sun Oct 9 16:38:19 2022 +0530
+
+    ADDED:NAME
+
+commit fc33f83dd2433851a77b4682eb293459994e7c38
+Author: CHIRAG AGARWAL <chiragagarwal07052001@gmail.com>
+Date:   Sun Oct 9 16:36:47 2022 +0530
+
+    ADDED:COMMANDS AND USES
+
+commit b67a4f5b3c231f3b8187c0bcc21177855abe54f0
+Merge: 58fbb61 843b72a
+Author: CHIRAG AGARWAL <chiragagarwal07052001@gmail.com>
+Date:   Sun Oct 9 16:06:16 2022 +0530
+
+    Merge branch 'Learner'
+
+commit 58fbb61fc9223aaef872c7ac3bb344a22de5e3c8
+Author: CHIRAG AGARWAL <chiragagarwal07052001@gmail.com>
+Date:   Sun Oct 9 16:03:53 2022 +0530
+
+    commit 1_Master
+
+commit 843b72ab5d6b6b0358f4bc0f3c9cdf6253c46f31
+Author: CHIRAG AGARWAL <chiragagarwal07052001@gmail.com>
+Date:   Sun Oct 9 16:02:02 2022 +0530
+
+    commit 2_Learner
+
+commit 6de5aa6bdfb4f0c447036b5976233d192f872a46
+Author: CHIRAG AGARWAL <chiragagarwal07052001@gmail.com>
+Date:   Sun Oct 9 15:58:21 2022 +0530
+
+    commit 1_Learner
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90 (origin/main, origin/HEAD)
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
