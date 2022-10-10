@@ -1,0 +1,42 @@
+commit 4a1d5298ab4e2ea59092649e1e84eeb7528825a9
+Author: Anuj <anuj992393@gmail.com>
+Date:   Sun Oct 9 08:59:27 2022 +0530
+
+    Added myname.txt in OSOC branch
+
+commit a83858bfaf310a3ad2a9549b8f5f5eb3f87d88cf
+Author: Anuj <anuj992393@gmail.com>
+Date:   Sun Oct 9 08:58:40 2022 +0530
+
+    Added gitCommands.txt in OSOC branch
+
+commit 140358d1f991bca4afe79a798ccfac7afdc23821
+Merge: f6f2c7f c5c8684
+Author: Anuj <anuj992393@gmail.com>
+Date:   Sun Oct 9 08:39:59 2022 +0530
+
+    final commit for task1
+
+commit c5c86849c9c548c8a6d19affe721171e9a1f4d55
+Author: Anuj <anuj992393@gmail.com>
+Date:   Sun Oct 9 08:27:41 2022 +0530
+
+    Modified test.txt in Learner Branch
+
+commit f6f2c7fbfe4e1af3d6cde3fe02350bf280a78443
+Author: Anuj <anuj992393@gmail.com>
+Date:   Sun Oct 9 08:25:36 2022 +0530
+
+    Added test.txt in Main Branch
+
+commit e857732a35759bc22ee7307fbd2ab678c4b6055e
+Author: Anuj <anuj992393@gmail.com>
+Date:   Sun Oct 9 08:17:33 2022 +0530
+
+    Added test.txt in Learner Branch
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
