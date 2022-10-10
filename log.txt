@@ -1,0 +1,42 @@
+commit b406a1224e97e4cb0d7d913b68e370140d09578f
+Author: Bala <balasainath17@gmail.com>
+Date:   Tue Oct 11 01:21:55 2022 +0530
+
+    added: All Screenshots in a single File
+
+commit 2358ab0e2a01fa75c6fc83317780d7461ba3c573
+Author: Bala <balasainath17@gmail.com>
+Date:   Mon Oct 10 21:13:28 2022 +0530
+
+    added: commit1_OSOC.txt
+
+commit d11a6c18dbe521ec8d6e4cc5b2c1609acc927361
+Merge: 146444f 0087d32
+Author: Bala <balasainath17@gmail.com>
+Date:   Mon Oct 10 20:38:19 2022 +0530
+
+    Merge branch 'Learner'
+
+commit 0087d3263c5cdc078c1fe8accab982b3659c5b1d
+Author: Bala <balasainath17@gmail.com>
+Date:   Mon Oct 10 20:28:10 2022 +0530
+
+    added: commit2_Learner.txt
+
+commit 146444ffdf97e2350353471bda4604a6985585a4
+Author: Bala <balasainath17@gmail.com>
+Date:   Mon Oct 10 20:24:40 2022 +0530
+
+    added: commit1_main.txt
+
+commit f54ddb2aaf33a6cff34147c26a95a9d29fdb2b70
+Author: Bala <balasainath17@gmail.com>
+Date:   Mon Oct 10 20:00:33 2022 +0530
+
+    added:commit1_Learner
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
