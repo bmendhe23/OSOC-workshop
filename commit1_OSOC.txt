@@ -1,0 +1,57 @@
+1)	git config	:-This command sets the author name and email address respectively to be used with your commits.
+
+	Usage: git config –global user.name “[name]”  
+
+     	Usage: git config –global user.email “[email address]”  
+
+
+2)      git init	:-This command is used to start a new repository.
+
+	Usage: git init [repository name]
+
+
+3)	git clone	:-This command is used to obtain a repository from an existing URL.
+
+	Usage: git clone [url]  
+
+4)	git add		:-This command adds a file to the staging area
+
+	Usage: git add [file] 
+
+
+5)	git commit	:-This command records or snapshots the file permanently in the version history.
+
+	Usage: git commit -m “[ Type in the commit message]”
+
+	Usage: git commit -a  
+
+	This command commits any files you’ve added with the git add command and also commits any files you’ve changed since then.
+
+6)	git status	:-This command lists all the files that have to be committed.
+
+	Usage: git status
+
+7)	git rm		:-This command deletes the file from your working directory and stages the deletion.
+
+	Usage: git rm [file] 
+
+8)	git branch	:-This command lists all the local branches in the current repository.
+
+	Usage: git branch
+
+	Usage: git branch [branch name]
+
+	This command creates a new branch.
+
+9)	git checkout	:-This command is used to switch from one branch to another.
+
+	Usage: git checkout [branch name] 
+
+	Usage: git checkout -b [branch name]
+
+	This command creates a new branch and also switches to it.
+
+
+10)	git merge	:-This command merges the specified branch’s history into the current branch.
+
+	Usage: git merge [branch name] 
