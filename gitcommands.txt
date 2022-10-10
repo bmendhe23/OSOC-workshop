@@ -1,0 +1,10 @@
+git clone <url>		-	clone a given git repository to your local machine
+git branch		-	shows all local branch present in a git repo
+git checkout <branchname>-	switch to the given branch
+git status		-	shows the current status of files and folder in a given git repo of a particular branch
+git add			-	include the file to the staging area to be part of the next commit
+git commit		-	adds a checkpoint of the current state of the particular branch in the given git repo
+git push <remote> <branch>-	push the changes of the given branch to the given remote repo
+git merge <branch>	-	merge the current and the given branch so to reflect all the changes made in given branch to the current one
+git revert <commit_hash>-	make a new commit such that all the changes made in the given commit_hash are not present.
+git log			-	display all the log messages regarding commmit messages, commit authors, date etc. along with the position of branch and HEAD pointer.
