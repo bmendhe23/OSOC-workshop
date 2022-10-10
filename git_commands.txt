@@ -1,0 +1,10 @@
+git config: It is used to set the name of the author and the email address which you want your commitment to addressing.
+git init: It is used to start a new git repository. This is generally used at the beginning.
+git clone: This command is used to clone or copy a repository from a URL.
+git add: It is used to add a file to the staging area. Instead of choosing a single file name, you can also choose to give all filenames with an *.
+git commit –m: It is used to snapshot or record a file in its version history permanently.
+git diff: As the name suggests, this command is used to display all the differences between the files until the changes have not yet been staged.
+git reset [file]: This command, as the name suggests, is used to unstage a file.
+Git status: This is one of the most frequently used as this is used to list down all the files which are ready to be committed.
+Git rm: As in the Unix, rm is used to remove; in the same way, rm is used to delete the file from the present working directory and is also used to stage the deletion process.
+Git log: This is used for listing down the version history for the current working branch.
