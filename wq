@@ -1,0 +1,48 @@
+[33mcommit abf99c7d669ae1825c18e24e53da31bd72614158[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mOSOC[m[33m)[m
+Author: ritik nayak <nayak@gmail.com>
+Date:   Tue Oct 11 01:52:28 2022 +0530
+
+    added: all
+
+[33mcommit 722730badaff9100e13ed27bfc91077d936ecf92[m
+Author: ritik nayak <nayak@gmail.com>
+Date:   Tue Oct 11 01:48:07 2022 +0530
+
+    added: ritik.txt
+
+[33mcommit 6aa381b79677e4739653d994b2a14385a55ac403[m
+Author: ritik nayak <nayak@gmail.com>
+Date:   Tue Oct 11 01:45:42 2022 +0530
+
+    added : commands.txt
+
+[33mcommit 0966013f3a71985631d4c8dfe66c1bd3c5e8279d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 21a6c54 dfa8230
+Author: ritik nayak <nayak@gmail.com>
+Date:   Tue Oct 11 01:42:38 2022 +0530
+
+    Merge branch 'learner'
+
+[33mcommit 21a6c545daaa3366efe3021c37b09ca173646db2[m
+Author: ritik nayak <nayak@gmail.com>
+Date:   Tue Oct 11 01:42:20 2022 +0530
+
+    added: third
+
+[33mcommit dfa82302598f49e70be450cad78731f1cf2fb7de[m[33m ([m[1;32mlearner[m[33m)[m
+Author: ritik nayak <nayak@gmail.com>
+Date:   Tue Oct 11 01:28:22 2022 +0530
+
+    added: second.txt in learner
+
+[33mcommit 85f4d0633d428349cfe75b15183ee6357f313450[m
+Author: ritik nayak <nayak@gmail.com>
+Date:   Tue Oct 11 01:21:05 2022 +0530
+
+    added: first.txt in main branch
+
+[33mcommit dfa008ea1749aa748c3fc5d829073ce17c065f90[m
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
