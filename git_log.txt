@@ -1,0 +1,42 @@
+commit d576747046c10528e19594e98dc6b263376965e1
+Author: NotVT <32077665+vaibhav7k@users.noreply.github.com>
+Date:   Mon Oct 10 19:36:18 2022 +0530
+
+    created text file with name
+
+commit c3f1907f1bbad81d5ff0434e09bf582d8b39073d
+Author: NotVT <32077665+vaibhav7k@users.noreply.github.com>
+Date:   Mon Oct 10 19:35:45 2022 +0530
+
+    10 git commands
+
+commit fa3c4b2ffd99651c58bec70259bcbd43f41854d0
+Merge: a4535e4 c9ea9c9
+Author: NotVT <32077665+vaibhav7k@users.noreply.github.com>
+Date:   Mon Oct 10 19:27:47 2022 +0530
+
+    Merge branch 'Learner'
+
+commit c9ea9c983b438cbd6ac70dddbad66db181f19a4b
+Author: NotVT <32077665+vaibhav7k@users.noreply.github.com>
+Date:   Mon Oct 10 19:23:48 2022 +0530
+
+    commit3_Learner
+
+commit a4535e4a00d5a43e6ba789dd9a8131a6ab3fa19d
+Author: NotVT <32077665+vaibhav7k@users.noreply.github.com>
+Date:   Mon Oct 10 19:21:49 2022 +0530
+
+    commit2_main
+
+commit eca370c893f85751e4b25b7c03b2b044e77edd36
+Author: NotVT <32077665+vaibhav7k@users.noreply.github.com>
+Date:   Mon Oct 10 19:19:26 2022 +0530
+
+    commit1_Learner
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
