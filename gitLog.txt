@@ -1,0 +1,42 @@
+commit 0d8ec5afdfef455a8c6a010fc3b8f057d86bfc37
+Author: Suraj Soren <surajsoren456@gmail.com>
+Date:   Tue Oct 11 00:19:15 2022 +0530
+
+    added myname.txt
+
+commit 3d7a1f088a3e5243ad176ac9d3f2f53040864e6f
+Author: Suraj Soren <surajsoren456@gmail.com>
+Date:   Tue Oct 11 00:18:49 2022 +0530
+
+    added git commands
+
+commit e75c1546d78f4174a78587860cb7726389f015d1
+Merge: 22f73af 9ee2ef7
+Author: Suraj Soren <surajsoren456@gmail.com>
+Date:   Mon Oct 10 23:56:56 2022 +0530
+
+    Merge branch 'Learner'
+
+commit 9ee2ef700740e682eed855d80212ec190302a13f
+Author: Suraj Soren <surajsoren456@gmail.com>
+Date:   Mon Oct 10 23:56:23 2022 +0530
+
+    second commit in learner branch
+
+commit 22f73af100e3132d6e077b2a5d2107f12ef43b0a
+Author: Suraj Soren <surajsoren456@gmail.com>
+Date:   Mon Oct 10 23:54:44 2022 +0530
+
+    first commit in main branch
+
+commit c12b87d048a8e5b2e5568dda1942a95777a37f2f
+Author: Suraj Soren <surajsoren456@gmail.com>
+Date:   Mon Oct 10 23:52:21 2022 +0530
+
+    first commit in learner branch
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
