@@ -1,0 +1,42 @@
+commit 1be8a9733560bff99d4a924e58fafce44c444dbf
+Author: pushkar srivastav <pushkarsrivastav456@gmail.com>
+Date:   Mon Oct 10 21:07:10 2022 +0530
+
+    name file is created
+
+commit a0f2d87f0d4a96897e0f9ae7e1e8d9cf35693892
+Author: pushkar srivastav <pushkarsrivastav456@gmail.com>
+Date:   Mon Oct 10 21:05:23 2022 +0530
+
+    git 10 commands
+
+commit 1e380c7d0c1e5e677721b756dc8ba462e6d1ce16
+Merge: 23b233c 6a22510
+Author: pushkar srivastav <pushkarsrivastav456@gmail.com>
+Date:   Mon Oct 10 20:43:18 2022 +0530
+
+    Merge branch 'Learner'
+
+commit 6a2251037772934eeb2de7efd61539f0513a8274
+Author: pushkar srivastav <pushkarsrivastav456@gmail.com>
+Date:   Mon Oct 10 20:42:34 2022 +0530
+
+    commit2_Learner created file
+
+commit 23b233c92c0c6cd1c82feff16dccb38630cf72a8
+Author: pushkar srivastav <pushkarsrivastav456@gmail.com>
+Date:   Mon Oct 10 20:41:16 2022 +0530
+
+    commit1_main created file
+
+commit 52610abce7be8de9e65cf073e4be838f681f399e
+Author: pushkar srivastav <pushkarsrivastav456@gmail.com>
+Date:   Mon Oct 10 20:39:58 2022 +0530
+
+    commit1_Learner created file
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit

@@ -1,0 +1,12 @@
+Git clone- Git clone is a command for downloading existing source code from a remote repository.
+Git branch- This command will create a branch locally.
+Git checkout- git checkout mostly for switching from one branch to another.
+Git status- command gives us all the necessary information about the current branch. 
+Git add- command to include the changes of a file(s) into our next commit.
+Git commit- Git commit saves your changes only locally.
+Git push- Git push only uploads changes that are committed.
+Git merge- Git merge basically integrates your feature branch with all of its commits back to the dev (or master) branch. 
+Git revert- The Git revert command will undo the given commit, but will create a new commit without deleting the older one.
+Git log - display all of the commit in a repository's history.
+
+
