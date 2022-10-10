@@ -1,0 +1,42 @@
+commit 860246ce299ee36488c7736cb6f72523410653ba
+Author: gurdeep singh <gurdeeppalewal00@gmail.com>
+Date:   Mon Oct 10 22:53:57 2022 +0530
+
+    name file created
+
+commit 9d571034e2f0ffbc7f3e772bcb5e750364a2e475
+Author: gurdeep singh <gurdeeppalewal00@gmail.com>
+Date:   Mon Oct 10 22:53:15 2022 +0530
+
+    git commands file created
+
+commit 4390b6892237d890016e359cc929c776400f5e15
+Merge: 148eed4 f6e7627
+Author: gurdeep singh <gurdeeppalewal00@gmail.com>
+Date:   Mon Oct 10 22:44:20 2022 +0530
+
+    Merge branch 'learner'
+
+commit f6e7627b2efbd97396fbbc93a1362a892aab46df
+Author: gurdeep singh <gurdeeppalewal00@gmail.com>
+Date:   Mon Oct 10 22:43:59 2022 +0530
+
+    commit2_learner created
+
+commit 148eed4a5dac808f4805c71c191a57054ed100ac
+Author: gurdeep singh <gurdeeppalewal00@gmail.com>
+Date:   Mon Oct 10 22:43:12 2022 +0530
+
+    commit1_main created
+
+commit 257bfa53e7a844d5624bbdb76b7a705aa398cdbf
+Author: gurdeep singh <gurdeeppalewal00@gmail.com>
+Date:   Mon Oct 10 22:42:19 2022 +0530
+
+    commit1_learner created
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
