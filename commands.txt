@@ -1,0 +1,31 @@
+1. git init :- it will create a new local GIT repository.
+command - git init
+
+2. git clone :- it is used to copy a repository.use:
+command - git clone /path/to/repository
+
+3. git add :- it is used to add files to the staging area. For example, the basic Git following command will index the temp.txt file:
+command - git add <temp.txt>
+
+4. git commit ;- it will create a snapshot of the changes and save it to the git directory.
+command - git commit –m “Message to go with the commit here”
+
+5. git config :- it can be used to set user-specific configuration values like email, username, file format, and so on.
+command - git config --global user.email youremail@example.com
+
+6. git status :- it will displays the list of changed files together with the files that are yet to be staged or committed.
+command - git status
+
+7. git push :- it is used to send local commits to the master branch of the remote repository.
+command - git push origin <master>
+
+8. git checkout :- it will creates branches and helps you to navigate between them.
+command - git checkout -b <branch-name>
+                    or
+          git checkout <branch-name>
+
+9. git branch :- it will list all the branch that exist.
+command - git branch
+
+10. git merge :- it is used to merge a branch into the active one.
+command - git merge <branch-name>
