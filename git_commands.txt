@@ -1,0 +1,13 @@
+10 git commands.
+1. git clone <github repo> :- this command is used to clone git repo in local machine.
+2. git touch <file name> :- to create a blank new file
+3. vim <file name> :- modify or insert a text file
+4. git add <file name> :- This command is used to move the file in staging area to track
+5. git branch :- this command is used to list all the branch in current repo.
+6. git branch <new branch name> :- this command is used to create a new branch
+7. git checkout <branch name> :- this command is used to switch to given branch.
+8. git checkout -b <new branch name> :- This command is used to create a new branch and move to that branch at the same time.
+9. git log :- this command is used to see the all commit in current repo
+10. git status :- this command is used to see the current status of file and repo.
+11. git log --oneline :- this commad is used to short all the SHA ID to the 6th letter combination.
+12. git commit -m "Commiting reason or message" :- this command is used to commit with a commiting message written in double quote.
