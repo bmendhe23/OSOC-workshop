@@ -1,0 +1,42 @@
+commit 4628fb5a1978b33d197c6fc74801e6c27c453533
+Author: prince385 <princejebad0@gmail.com>
+Date:   Tue Oct 11 19:25:29 2022 +0530
+
+    commit 5_OSOC
+
+commit 1e29461f3243fc874f7ade9273ec01db7bec441e
+Author: prince385 <princejebad0@gmail.com>
+Date:   Tue Oct 11 19:24:19 2022 +0530
+
+    Commit4_OSOC
+
+commit d4ba66f2bb794c17d903bebbc2203bc772bd01a5
+Merge: f771a5b 796da32
+Author: prince385 <princejebad0@gmail.com>
+Date:   Tue Oct 11 18:57:11 2022 +0530
+
+    Merge branch 'Learner'
+
+commit 796da327f838c6f54c3e5839b9ebbe68c7ad8659
+Author: prince385 <princejebad0@gmail.com>
+Date:   Tue Oct 11 18:55:48 2022 +0530
+
+    Commit3_Learner
+
+commit f771a5bcfe42ee6ce552220517cdfae661b02515
+Author: prince385 <princejebad0@gmail.com>
+Date:   Tue Oct 11 18:54:11 2022 +0530
+
+    Commit2_main
+
+commit 44c16f7216d7fb6a9a51307e449b9d17d0ea896f
+Author: prince385 <princejebad0@gmail.com>
+Date:   Tue Oct 11 18:52:30 2022 +0530
+
+    Commit 1_Learner
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
