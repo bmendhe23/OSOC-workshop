@@ -1,0 +1,10 @@
+1. git init: Used to start a new git repository.
+2. git clone: Used to copy a git repository.
+3. git add: Used to add file(s) to the staging area. 
+4. git branch: Used to list all the branches of the repository.
+5. git push: Used to push the changes to the remote repository.
+6. git checkout: Used to switch to another branch.
+7. git merge: Used to merge current branch with another branch.
+8. git status: Used to show the status of files in current branch.
+9. git log: Used to list the log history of the repository.
+10. git commit: Used to create checkpoint of current branch.
