@@ -1,0 +1,29 @@
+1.    git add
+	To add files to staging area.
+
+2.	git commit
+	To commit staged files.
+
+3.	git diff
+	Compares the last modified area with the last staging area git diff --staged Compares staging area with the last committed area.
+
+4.	git branch
+	To check different branches, To create branches etc.
+
+5.	git revert
+	Using it we can go to any previous committed node and we can create a new branch and change things.
+
+6.	git push
+	To push committed files in remote github repo.
+
+7.	git checkout 
+	To switch between branches & To get the commited files on tracked area.
+
+8.	git status
+	Shows the status whether a file is being tracked or untracked or present in the modified area or staging area or committed area.
+
+9.	git log
+	Shows list of previous commits.
+
+10.	git init
+	To initialize git on a repo.
