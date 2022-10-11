@@ -1,0 +1,42 @@
+commit dcebad5385433b9fa86dab7c5349837bef7a88e8
+Author: sachin205122087 <sachinpatel6261555862@gmail.com>
+Date:   Tue Oct 11 19:49:27 2022 +0530
+
+    mynamefilecreated
+
+commit e6e56eb41376236e684e05b615f22a34c1fa78ba
+Author: sachin205122087 <sachinpatel6261555862@gmail.com>
+Date:   Tue Oct 11 19:41:53 2022 +0530
+
+    git commandfile created
+
+commit 61aabc4e367ea59b689bfcac059e4dd014e40bdd
+Merge: 1fc8698 4b5bcfc
+Author: sachin205122087 <sachinpatel6261555862@gmail.com>
+Date:   Tue Oct 11 18:37:00 2022 +0530
+
+    Merge branch 'learner'
+
+commit 4b5bcfc86a1ac928ae04ac2391823d6e5315265a
+Author: sachin205122087 <sachinpatel6261555862@gmail.com>
+Date:   Tue Oct 11 18:36:21 2022 +0530
+
+    commit2_learner file created
+
+commit 1fc86981602fb7ff4843c8417a2e6e5c34014f41
+Author: sachin205122087 <sachinpatel6261555862@gmail.com>
+Date:   Tue Oct 11 18:34:55 2022 +0530
+
+    commit1_main file created
+
+commit aff9a9525f34d2a83ea92546232bcdca95a09e77
+Author: sachin205122087 <sachinpatel6261555862@gmail.com>
+Date:   Tue Oct 11 18:33:17 2022 +0530
+
+    commit1_learner file created
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
