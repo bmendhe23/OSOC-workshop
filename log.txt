@@ -1,0 +1,48 @@
+commit b2c0f287f3db2b630021094e91f2b7da507afbe9
+Author: Dheeraj <dkjoshi8293@gmail.com>
+Date:   Tue Oct 11 21:49:55 2022 +0530
+
+    Thsi is Final Commit After doing everything
+
+commit 153b283404733daa1e9d5dea7e3fcd6ad5ea2f48
+Author: Dheeraj <dkjoshi8293@gmail.com>
+Date:   Tue Oct 11 21:37:35 2022 +0530
+
+    txt File with my name is added
+
+commit 6b55cb290a171ba390b7d36ddfb10e68be8d4b97
+Author: Dheeraj <dkjoshi8293@gmail.com>
+Date:   Tue Oct 11 21:34:20 2022 +0530
+
+    10 Fav Commands txt Committed
+
+commit 234a89f0a3a5408d2d3e68494fc3d5b4fc01b856
+Merge: a88372e deb1e10
+Author: Dheeraj <dkjoshi8293@gmail.com>
+Date:   Tue Oct 11 19:17:45 2022 +0530
+
+    Merge branch 'Learner'(Master & Learner branch Merged)
+
+commit deb1e100950fa4ef76234c4f978b92dd5e30c195
+Author: Dheeraj <dkjoshi8293@gmail.com>
+Date:   Tue Oct 11 19:14:57 2022 +0530
+
+    Commit 3 Learner Branch
+
+commit a88372ed9e2bbfa93d5df4a5f05e76d7c497839e
+Author: Dheeraj <dkjoshi8293@gmail.com>
+Date:   Tue Oct 11 19:09:54 2022 +0530
+
+    Commit 2 master branch
+
+commit e3cf17468dcb006103da29bde39e3a4e6352c4eb
+Author: Dheeraj <dkjoshi8293@gmail.com>
+Date:   Tue Oct 11 19:06:40 2022 +0530
+
+    Commit 1 master branch
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
