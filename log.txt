@@ -1,0 +1,48 @@
+commit b316e41133644331a86a9582d3d4950df76ef71f
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Tue Oct 11 15:37:05 2022 +0530
+
+    Added: Screenshots folder
+
+commit 689e33531bb7bdbca824250f98e86ff73fc28a3a
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Tue Oct 11 14:50:46 2022 +0530
+
+    Added: name.txt
+
+commit d742a6b74c93a849b5e2e9b1c8b5ae853b375e44
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Tue Oct 11 14:49:13 2022 +0530
+
+    Added: git_commands.txt
+
+commit bae7f070192caf56e9192b028dcc3016e88aba09
+Merge: 2473fdc 04c9b5e
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Tue Oct 11 13:37:49 2022 +0530
+
+    Merge branch 'Learner' into main
+
+commit 04c9b5e8a88a6c9cd5546707d0aa0e5c266c26d7
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Tue Oct 11 13:26:09 2022 +0530
+
+    Added: file3.txt
+
+commit 2473fdc9e788c27a43385134e2ffa36f72e8b22f
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Tue Oct 11 13:24:49 2022 +0530
+
+    Added: file2.txt
+
+commit dd819591708553fd7b31deedbde65c3dceaca598
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Tue Oct 11 13:22:57 2022 +0530
+
+    Added: file1.txt
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
