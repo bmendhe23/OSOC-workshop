@@ -1,0 +1,10 @@
+1.) git add filename -> Moves changes from the working directory to the staging area.
+2.) git clean -> removes untracked files from the working directory.
+3.) git clone ->create a copy of an existing git respository.
+4.) git clean -n ->show which fill will be deleted.
+5.) gir revert <commit id> ->undo the commit tree
+6.) git branch ->It create isolated development within a single repository.
+7.) git init ->initalizes a new git repository.
+8.) git merge -> it merge branches. After forking the project history with git branch, git merge lets us put it back together again.
+9.)git log --oneline
+10.)git config --global user.name "Nandinishau990@gmail.com"
