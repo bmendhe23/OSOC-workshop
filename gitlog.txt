@@ -1,0 +1,42 @@
+commit 6e1ce3ff2d8bf1bfd8e28bfc1d34f7b0e9f54a5c
+Author: Himanshu Gupta <iamhimanshu3299@gmail.com>
+Date:   Wed Oct 12 19:45:53 2022 +0530
+
+    himanshu.txt file added
+
+commit b76c10f8aa5148fbaa4f05aff9c7cc0a86c302e3
+Author: Himanshu Gupta <iamhimanshu3299@gmail.com>
+Date:   Wed Oct 12 19:43:02 2022 +0530
+
+    gitcommands.txt file added
+
+commit 4eea4d5d9c6f851e3c607a28b690ce38e31e5202
+Merge: 26f36a3 6e67f93
+Author: Himanshu Gupta <iamhimanshu3299@gmail.com>
+Date:   Wed Oct 12 19:27:07 2022 +0530
+
+    Merge branch 'learner'
+
+commit 6e67f93b3b79e2a1c6085a8480704c9aeef12ca5
+Author: Himanshu Gupta <iamhimanshu3299@gmail.com>
+Date:   Wed Oct 12 19:23:55 2022 +0530
+
+    commit2learner.txt file added
+
+commit 26f36a370e24be9ca3b593b43d2f78bc186f416a
+Author: Himanshu Gupta <iamhimanshu3299@gmail.com>
+Date:   Wed Oct 12 19:22:16 2022 +0530
+
+    commit1_main.txt file created
+
+commit dab61fe2850f252ea0b9712e0e1bd76fdaa39be2
+Author: Himanshu Gupta <iamhimanshu3299@gmail.com>
+Date:   Wed Oct 12 19:19:09 2022 +0530
+
+    commit1_learner file created
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
