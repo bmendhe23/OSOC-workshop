@@ -1,0 +1,29 @@
+commit 3e65699961ab0c2562f1c993333c0d2a35cc89e4
+Author: aniket <aniketsingh0295@gmail.com>
+Date:   Wed Oct 12 23:32:02 2022 +0530
+
+    this is my second commit in OSOC branch
+
+commit fcb49a11a022768023853f56fe2a8c908a896cda
+Author: aniket <aniketsingh0295@gmail.com>
+Date:   Wed Oct 12 23:25:34 2022 +0530
+
+    this commit is in osoc branch with git commands
+
+commit c887e66488a67cf20dce276fc389f0f3b39944ec
+Author: aniket <aniketsingh0295@gmail.com>
+Date:   Wed Oct 12 23:19:05 2022 +0530
+
+    this is my first commit in learner branch
+
+commit 21cf16eaceffae751c57d2a9e4420ec9185f16e6
+Author: aniket <aniketsingh0295@gmail.com>
+Date:   Wed Oct 12 23:16:28 2022 +0530
+
+    this is my first commit in main branch
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
