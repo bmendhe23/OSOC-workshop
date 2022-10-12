@@ -1,0 +1,42 @@
+commit 6fb99f31c4ab87c56282605bca6645c4713582ae
+Author: Surandra <surandra.meena67@gmail.com>
+Date:   Wed Oct 12 22:02:55 2022 +0530
+
+    added:name.txt
+
+commit 8926397e8eaecc528c2c21c859ee63ea1bad7d1a
+Author: Surandra <surandra.meena67@gmail.com>
+Date:   Wed Oct 12 22:01:34 2022 +0530
+
+    added:cmd.txt
+
+commit ec155c9efdd316ac3c1950e4515e30f48480abaf
+Merge: 808b7bb a6a34b9
+Author: Surandra <surandra.meena67@gmail.com>
+Date:   Wed Oct 12 21:55:28 2022 +0530
+
+    Merge branch 'Learner'
+
+commit a6a34b96406113bace7df4857dfe960554ed2ace
+Author: Surandra <surandra.meena67@gmail.com>
+Date:   Wed Oct 12 21:54:47 2022 +0530
+
+    added:commit2_Learner.txt
+
+commit 808b7bbe50c8b3c05b46e7ffdbe1491d3da89248
+Author: Surandra <surandra.meena67@gmail.com>
+Date:   Wed Oct 12 21:53:28 2022 +0530
+
+    added:main.txt
+
+commit 773bdcb65c1c7cf879b94e851f1b9a9385b98391
+Author: Surandra <surandra.meena67@gmail.com>
+Date:   Wed Oct 12 21:52:35 2022 +0530
+
+    added:commit1_Learner.txt
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
