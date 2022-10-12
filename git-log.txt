@@ -1,0 +1,42 @@
+commit 1894efb2610c23554fc4f38661b8fd0aa9263690
+Author: Rishikesh Bhakare <bhakarerishi@gmail.com>
+Date:   Wed Oct 12 20:03:10 2022 +0530
+
+    added: name.txt
+
+commit 771bd0581d254a93e3528f1c810b0f69d765438e
+Author: Rishikesh Bhakare <bhakarerishi@gmail.com>
+Date:   Wed Oct 12 20:02:19 2022 +0530
+
+    added: commands.txt
+
+commit 7ffd9877336b300a2ffcf3a0a7c9fcd779f416d9
+Merge: 3ececa7 a0a6c7a
+Author: Rishikesh Bhakare <bhakarerishi@gmail.com>
+Date:   Wed Oct 12 19:59:28 2022 +0530
+
+    Merge branch 'learner'
+
+commit a0a6c7a172dc2b34f6add37c0ab76163e53421ca
+Author: Rishikesh Bhakare <bhakarerishi@gmail.com>
+Date:   Wed Oct 12 19:59:13 2022 +0530
+
+    added: commit2_learner.txt
+
+commit 3ececa786acf255307a4b0fd76fbb6dab41032fd
+Author: Rishikesh Bhakare <bhakarerishi@gmail.com>
+Date:   Wed Oct 12 19:58:33 2022 +0530
+
+    added: commit1_main.txt
+
+commit d33469e94067e8699649c1e1d58ac0f190874947
+Author: Rishikesh Bhakare <bhakarerishi@gmail.com>
+Date:   Wed Oct 12 19:58:06 2022 +0530
+
+    added: commit1_learner.txt
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
