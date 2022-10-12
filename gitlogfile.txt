@@ -1,0 +1,44 @@
+$ git log
+commit 290c9f82c49bc699f5428cb79896e3fdacb2dbf8 (HEAD -> main)
+Author: Abnish Kumar <abnish2320@gmail.com>
+Date:   Wed Oct 12 23:23:13 2022 +0530
+
+    added:name.txt
+
+commit a20092bd208edc9a350418d825db7e9a4c988f73
+Author: Abnish Kumar <abnish2320@gmail.com>
+Date:   Wed Oct 12 23:22:03 2022 +0530
+
+    added:commandinfo.txt
+
+commit c431737165758740798ccb98828fa4daaf7fc71a
+Merge: 0608cdd 4eba2a0
+Author: Abnish Kumar <abnish2320@gmail.com>
+Date:   Wed Oct 12 22:45:58 2022 +0530
+
+    Merge branch 'learner'
+
+commit 4eba2a03a0588c1941013b367a75001dd2ee6fa5
+Author: Abnish Kumar <abnish2320@gmail.com>
+Date:   Wed Oct 12 22:41:53 2022 +0530
+
+    added:3 file3.txt
+
+commit 0608cddba28ed6030b49c924d7da3028a2f91cb2
+Author: Abnish Kumar <abnish2320@gmail.com>
+Date:   Wed Oct 12 22:39:07 2022 +0530
+
+    added:2 file2.txt
+
+commit b5640e68d71d12caaaa74c1b4363dc139637203e
+Author: Abnish Kumar <abnish2320@gmail.com>
+Date:   Wed Oct 12 22:35:00 2022 +0530
+
+    added:1
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90 (origin/main, origin/HEAD)
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
+
