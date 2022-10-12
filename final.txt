@@ -1,0 +1,7 @@
+4c1ff50 (HEAD -> main) commit1_OSOC
+73a5fa8 merge is used for merging the branch with the parent branch Merge branch 'Learner'
+efe3bfe commmit1_main
+17d0749 commmit2_Learner
+61e651a commmit1_Learner
+dfa008e (origin/main, origin/HEAD) Initial commit
+
