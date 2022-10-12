@@ -1,0 +1,19 @@
+1. git init --> The git init command creates a new Git repository.
+
+2. git clone --> The git clone is a command which is used to make a local copy of a remote repository.
+
+3. git status --> The git status command displays the state of the working directory and the staging area
+
+4. git add --> The git add command adds a change in the working directory to the staging area.
+
+5. git commit --> The git commit is used to record the changes in the repository.
+
+6. git log --> The git log command displays all of the commits in a repository's history.
+
+7.git branch --> The git branch command is used to create, list, rename, and delete branches.
+
+8. git checkout --> The git checkout command is used navigate between the branches created by git branch .
+
+9. git switch --> The "switch" command is used to switch your current HEAD branch.
+
+10. git merge --> The git merge command is used to merge the branches.
