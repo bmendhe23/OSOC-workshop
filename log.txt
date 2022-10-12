@@ -1,0 +1,103 @@
+commit ef2a31be6a26e6f5d4aedb50d6629efa90f989e2
+Author: rwit1999 <wribobeats@gmail.com>
+Date:   Wed Oct 12 19:57:58 2022 +0530
+
+    ritabrata.txt added
+
+commit 5cf2dfd6b43ef2edf45ebd68a5d4c72bee169ba8
+Author: rwit1999 <wribobeats@gmail.com>
+Date:   Wed Oct 12 19:56:08 2022 +0530
+
+    screenshots added
+
+commit a4379df9f0cafa68580d0cf1dbf2a9ba2f0a27a4
+Author: rwit1999 <wribobeats@gmail.com>
+Date:   Wed Oct 12 19:48:57 2022 +0530
+
+    commit1_OSOC.txt added
+
+commit a8746bdf4fdc74a3e5e50a4524e826a9524a082e
+Merge: 477fc6f 6d83caa
+Author: rwit1999 <wribobeats@gmail.com>
+Date:   Wed Oct 12 19:44:50 2022 +0530
+
+    Merge branch 'Learner'
+
+commit 6d83caaef82c61bf9278319f355e862b68a8f63c
+Author: rwit1999 <wribobeats@gmail.com>
+Date:   Wed Oct 12 19:44:02 2022 +0530
+
+    commit2_Learner.txt added
+
+commit 477fc6f27e41e032cba70bb80b04fddd0bd07738
+Author: rwit1999 <wribobeats@gmail.com>
+Date:   Wed Oct 12 19:43:05 2022 +0530
+
+    commit1_main.txt added
+
+commit 51de29796e6e49dc0e4d3360236fd9d9e008dbf6
+Author: rwit1999 <wribobeats@gmail.com>
+Date:   Wed Oct 12 19:42:21 2022 +0530
+
+    commit1_Learner.txt added
+
+commit a5e205effb37258fbfa25ad8ada92f993e32a4a5
+Author: rwit1999 <94641144+rwit1999@users.noreply.github.com>
+Date:   Wed Oct 12 19:36:46 2022 +0530
+
+    Delete commit2_Learner.txt
+
+commit 3c180de8b0f29c33095887d9352aa59bd1a5e559
+Author: rwit1999 <94641144+rwit1999@users.noreply.github.com>
+Date:   Wed Oct 12 19:36:38 2022 +0530
+
+    Delete commit1_OSOC.txt
+
+commit e4f5b9d227cff924692e58a1851303106e2843a2
+Author: rwit1999 <94641144+rwit1999@users.noreply.github.com>
+Date:   Wed Oct 12 19:36:27 2022 +0530
+
+    Delete commit1_Main.txt
+
+commit 39d42bef80d35287bcb92827c92438b8adaa1a52
+Author: rwit1999 <94641144+rwit1999@users.noreply.github.com>
+Date:   Wed Oct 12 19:36:16 2022 +0530
+
+    Delete commit1_Learner.txt
+
+commit 1ec26fbea9f8a21fa4b60bde92fca2e21d8b38ff
+Author: rwit1999 <wribobeats@gmail.com>
+Date:   Wed Oct 12 19:17:52 2022 +0530
+
+    commit1_OSOC.txt added
+
+commit bfb57e0933c6bf6f12d6ad5ae4eca97e91a130cd
+Merge: 307fd9f 6fc4b93
+Author: rwit1999 <wribobeats@gmail.com>
+Date:   Wed Oct 12 18:45:27 2022 +0530
+
+    Merge branch 'Learner'
+
+commit 6fc4b93903be5cc16cf719c5ed35ff7f4c3cc984
+Author: rwit1999 <wribobeats@gmail.com>
+Date:   Wed Oct 12 18:44:56 2022 +0530
+
+    commit2_Learner.txt added
+
+commit 307fd9fa9828fd0ff00179c1157e2cd51134fe6f
+Author: rwit1999 <wribobeats@gmail.com>
+Date:   Wed Oct 12 18:43:54 2022 +0530
+
+    commit1_main.txt added
+
+commit d3f7c7886638b1172a0fb319ef458becc0b9fea9
+Author: rwit1999 <wribobeats@gmail.com>
+Date:   Wed Oct 12 18:42:11 2022 +0530
+
+    commit1_Learner.txt added
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
