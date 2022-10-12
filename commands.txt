@@ -1,0 +1,10 @@
+git init-> It initializes the git environment
+git clone <path> -> It clones(ctreate a copy) the repository
+git status <file name>  -> It shows the status of a file
+git add <file name> -> It adds the file to Staging Index
+git commit -m "message" -> It adds the file to Commit Tree
+git ls-files -s -> Its shows the staging index files
+git log -> It shows the history of the activities
+git branch <branch name> -> creates a new branch
+git checkout <branch name> ->to goto other branch
+git clean -> delete  working directory files permanently
