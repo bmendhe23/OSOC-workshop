@@ -1,0 +1,42 @@
+commit b855c3d619ca21e2c232f12519fd2771374e4fd7
+Author: YashChoudhary <yashchoudhary572001@gmail.com>
+Date:   Wed Oct 12 20:36:45 2022 +0530
+
+    added:name.txt
+
+commit 8b9c260f685ab0b54f1844cef35c47ce56ab8248
+Author: YashChoudhary <yashchoudhary572001@gmail.com>
+Date:   Wed Oct 12 20:35:34 2022 +0530
+
+    added:git_commands.txt
+
+commit 0cb9e34bb6982b6070d4322984016c5cab576a72
+Merge: d236cd5 0ebb16f
+Author: YashChoudhary <yashchoudhary572001@gmail.com>
+Date:   Wed Oct 12 20:31:04 2022 +0530
+
+    Merge branch 'Learner'
+
+commit 0ebb16fcccad6a2329e88cef6475c744f589fc6e
+Author: YashChoudhary <yashchoudhary572001@gmail.com>
+Date:   Wed Oct 12 20:30:25 2022 +0530
+
+    added:commit2_Learner.txt
+
+commit d236cd56ffc17273807d1a4af9672e4ededce4a3
+Author: YashChoudhary <yashchoudhary572001@gmail.com>
+Date:   Wed Oct 12 20:28:55 2022 +0530
+
+    added: commit1_main.txt
+
+commit 5d59961ee55ad4a8e71c57fdd4f9fe3aa21b1ff6
+Author: YashChoudhary <yashchoudhary572001@gmail.com>
+Date:   Wed Oct 12 20:27:30 2022 +0530
+
+    added: commit1_Learner.txt
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
