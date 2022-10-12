@@ -1,0 +1,67 @@
+himan@DESKTOP-2M8ILIL MINGW64 ~/OneDrive/Desktop/GIT/GITWorkbox/OSOC-workshop (main)
+$ git log --stat
+commit 1d4fcd1a970a3b2756fedeec9ce51364d66e62e7 (HEAD -> main, origin/main, orig
+in/HEAD)
+Author: HimanshuUpadhyay8 <himanshuupa.raj@gmail.com>
+Date:   Wed Oct 12 23:02:02 2022 +0530
+
+    commit2 main
+
+ screenshots/1.PNG  | Bin 0 -> 20938 bytes
+ screenshots/10.PNG | Bin 0 -> 20492 bytes
+ screenshots/11.PNG | Bin 0 -> 18160 bytes
+ screenshots/2.PNG  | Bin 0 -> 20406 bytes
+ screenshots/3.PNG  | Bin 0 -> 21211 bytes
+ screenshots/4.PNG  | Bin 0 -> 20464 bytes
+ screenshots/5.PNG  | Bin 0 -> 18346 bytes
+ screenshots/6.PNG  | Bin 0 -> 18889 bytes
+ screenshots/7.PNG  | Bin 0 -> 27690 bytes
+ screenshots/8.PNG  | Bin 0 -> 20509 bytes
+ screenshots/9.PNG  | Bin 0 -> 22659 bytes
+ 11 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8858d4aebc0a8e7bdecad4af739bb6670794be9e (OSOC)
+Author: HimanshuUpadhyay8 <himanshuupa.raj@gmail.com>
+Date:   Wed Oct 12 22:51:27 2022 +0530
+
+    commit1 OSOC
+
+ Author.txt   |  2 ++
+ commands.txt | 29 +++++++++++++++++++++++++++++
+ 2 files changed, 31 insertions(+)
+
+commit a1daf79d3133548fb772dc186ec2aeeea59aa7af
+Merge: 677317a 29f465f
+Author: HimanshuUpadhyay8 <himanshuupa.raj@gmail.com>
+Date:   Wed Oct 12 22:31:19 2022 +0530
+
+    Merge branch 'learner'
+
+commit 677317aaf8c640020ed7b1aff4b39e8bea47b07a
+Author: HimanshuUpadhyay8 <himanshuupa.raj@gmail.com>
+Date:   Wed Oct 12 22:30:02 2022 +0530
+
+    commit1 main
+
+ file3.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 29f465f128f19a9247434fcf926e5c0cdfe9fc96 (learner)
+Author: HimanshuUpadhyay8 <himanshuupa.raj@gmail.com>
+Date:   Wed Oct 12 22:27:35 2022 +0530
+
+    commit1 learner
+
+ file1.txt | 1 +
+ file2.txt | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90 (origin/learner)
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+(END)
