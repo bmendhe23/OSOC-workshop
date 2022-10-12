@@ -1,4 +1,10 @@
-commit fbfd5616ad0d700eaeb63e2bdab36208b1c1eb69 (HEAD -> main, OSOC)
+commit 586f486d54ac8e1fbea16249ec93a4dc35c15c97 (HEAD -> main)
+Author: SACHIN <sk7840883262@gmail.com>
+Date:   Wed Oct 12 20:23:35 2022 +0530
+
+    COMMITED:LOG
+
+commit fbfd5616ad0d700eaeb63e2bdab36208b1c1eb69
 Author: SACHIN <sk7840883262@gmail.com>
 Date:   Wed Oct 12 20:06:15 2022 +0530
 
@@ -26,18 +32,4 @@ Date:   Wed Oct 12 19:58:12 2022 +0530
 commit ccbb205f6be9e3b5568cfd3154e84bffec50db3d
 Author: SACHIN <sk7840883262@gmail.com>
 Date:   Wed Oct 12 19:56:54 2022 +0530
-
-    COMMITED:2
-
-commit 65bf80b1ce8a82db98c70a909f0a1ec053b2cd80
-Author: SACHIN <sk7840883262@gmail.com>
-Date:   Wed Oct 12 19:55:34 2022 +0530
-
-    COMMITED:1
-
-commit dfa008ea1749aa748c3fc5d829073ce17c065f90 (origin/main, origin/HEAD)
-Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
-Date:   Sat Oct 8 00:17:12 2022 +0530
-
-    Initial commit
 
