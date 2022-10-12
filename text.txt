@@ -1,0 +1,23 @@
+to check status "git status"
+add file using "git add <file name>"
+git commit -m " added: sudhir.txt"
+git diff <file name>
+git ls-files -s ->staging index files
+git log ->commited files log
+git log -n 1
+git log --oneline
+git branch
+git branch osoc
+git checkout osoc
+git branch -d osoc
+git checkout -b osoc
+git checkout <commit id>
+git reset
+git clean- delete permanently working directory
+git clean -f ->force delete
+git clean -n ->show which file will be deleted
+git clean -df ->delete file and folder permanently
+git revert <commit id> - undo the commit tree
+git reset --hard HEAD~2->reset given no of node
+git remote
+git push
