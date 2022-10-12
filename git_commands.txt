@@ -1,0 +1,11 @@
+git clone <https://name-of-the-repository-link>
+git branch <branch-name>
+git checkout <name-of-your-branch>
+git config --global user.name "<Your-Full-Name>"
+$ git init
+gt status
+git add .
+git commit -m "message"
+git push
+git pull
+git log
