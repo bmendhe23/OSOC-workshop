@@ -1,0 +1,43 @@
+commit fbfd5616ad0d700eaeb63e2bdab36208b1c1eb69 (HEAD -> main, OSOC)
+Author: SACHIN <sk7840883262@gmail.com>
+Date:   Wed Oct 12 20:06:15 2022 +0530
+
+    COMMITED:TEXT2
+
+commit 42266db70de76c525ae4ff15bda74a602b5ca1da
+Author: SACHIN <sk7840883262@gmail.com>
+Date:   Wed Oct 12 20:05:02 2022 +0530
+
+    COMMITED:TEXT
+
+commit 424ba633bb0f62597a0c30c2fb80b39fc821f94b
+Merge: ccbb205 41d4da0
+Author: SACHIN <sk7840883262@gmail.com>
+Date:   Wed Oct 12 19:59:18 2022 +0530
+
+    Merge branch 'learner'
+
+commit 41d4da01e4484df2e3031be6583bb1169070613e (learner)
+Author: SACHIN <sk7840883262@gmail.com>
+Date:   Wed Oct 12 19:58:12 2022 +0530
+
+    COMMITED:3
+
+commit ccbb205f6be9e3b5568cfd3154e84bffec50db3d
+Author: SACHIN <sk7840883262@gmail.com>
+Date:   Wed Oct 12 19:56:54 2022 +0530
+
+    COMMITED:2
+
+commit 65bf80b1ce8a82db98c70a909f0a1ec053b2cd80
+Author: SACHIN <sk7840883262@gmail.com>
+Date:   Wed Oct 12 19:55:34 2022 +0530
+
+    COMMITED:1
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90 (origin/main, origin/HEAD)
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
+
