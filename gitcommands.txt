@@ -1,0 +1,11 @@
+10 git commands---
+init :-to create a new repository for projects
+clone :- to create a copy of an existing repo in a new directory at a different location.
+add :-adds the modified files into the staging area.
+commit :-to create a timeline of the staged changes along the timeline of the project.
+reset :-to undo the committed changes from a repository.
+status :-displays the current status of the repository such as untracked files, added files, changed files, etc.
+remove :- to remove or delete a file from the working directory.
+branch :-create a new feature without disturbing the actual project
+merge :-the merging of two distinct branches into one single branch. 
+push :-to push all the local staged changes into a remote repository stored in the cloud.
