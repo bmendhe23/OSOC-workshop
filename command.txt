@@ -1,0 +1,16 @@
+Command List
+
+1.git init ---> Used To Initialize a new repository.
+2.git clone ---> Used to copy of existing repository.
+3.git status ---> Shows the status of the working directory(working tree , staging index , commit tree)
+4.git add <filename> ---> It adds the file from working directory to staging index.
+5.git commit -m "commit message" ---> It adds the file from staging index to commit tree.
+6.git log ---> Shows all the commit history.
+7.git checkout <branchname> ---> It takes the head from current branch to the <branchname>.
+8.git merge <branchname> ---> It merges the currently working branch and the given branch in <branchname>.
+9.git push ---> It pushes all the changes in the GITHUB repository.
+10.git branch <branchname> ---> It create a new branch with new <branchname>.
+
+
+
+
