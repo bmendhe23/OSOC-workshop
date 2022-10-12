@@ -1,0 +1,24 @@
+
+
+1. git config - Before you can start using Git, you need to configure it. This command allows you to specify the username and email address that will be used with your commits.
+
+ 
+2) git init - A git repository must first be created before you can make commits or do anything else with it. We’ll use the git init command to create a new Git repository.
+
+3) git clone - The command we’ll be doing on the terminal is git clone, which is how cloning is related to Git. The git clone command takes a path (typically a URL) to the Git repository you want to clone. 
+
+4) git status - The git status command is our key to Git’s mind. It will inform us of Git’s thoughts and the state of our repository as seen by Git.
+
+5) git add - To move files from the Working Directory to the Staging Index, use the git add command
+
+6) git commit - This command saves a log message along with the commit id of the modifications made to the git repository.
+
+7) git push - This command pushes the contents of your local repository to the remote repository you’ve added. 
+
+8) git branch - Add a new branch to an existing branch, list all existing branches, and delete a branch with git branch. This command is used to perform operations on a branch that has been specified.
+
+9) git checkout - We can use the git checkout command to switch to an existing branch or to create and switch to a new one. 
+
+10) git merge - The history of the specified branch is merged into the current branch with this command. The command git merge joins your branch to the parent branch
+
+

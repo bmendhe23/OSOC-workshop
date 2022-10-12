@@ -1,0 +1,48 @@
+commit 6fb48c941fc1046697e03da226b0e642539b149d
+Author: harsh goyal <harshgoyal@HARSHs-MacBook-Air.local>
+Date:   Wed Oct 12 22:37:36 2022 +0530
+
+    Screenshots folder added
+
+commit 9a33ab6b9bc96081703b449893ec18a2d3441ec5
+Author: harsh goyal <harshgoyal@HARSHs-MacBook-Air.local>
+Date:   Wed Oct 12 22:28:44 2022 +0530
+
+    Name file added
+
+commit e52862ac712749cfbc6fa14137a0852953a81299
+Author: harsh goyal <harshgoyal@HARSHs-MacBook-Air.local>
+Date:   Wed Oct 12 22:24:38 2022 +0530
+
+    10 commands file added
+
+commit 6d0b0c730fbeaac0ba7db5dbd285df45a909598a
+Merge: d5c91d0 4b15002
+Author: harsh goyal <harshgoyal@HARSHs-MacBook-Air.local>
+Date:   Wed Oct 12 22:13:56 2022 +0530
+
+    Merge branch 'learner'
+
+commit 4b1500234592b1b1b3e4eb7a531092f0b6b70bab
+Author: harsh goyal <harshgoyal@HARSHs-MacBook-Air.local>
+Date:   Wed Oct 12 22:12:39 2022 +0530
+
+    Commit2_learner added
+
+commit d5c91d0d000158a9df50f8ce2cbeef034412999a
+Author: harsh goyal <harshgoyal@HARSHs-MacBook-Air.local>
+Date:   Wed Oct 12 22:09:24 2022 +0530
+
+    Commit1_main added
+
+commit 77677f76846a82a155fba131108ec9876b87aeb3
+Author: harsh goyal <harshgoyal@HARSHs-MacBook-Air.local>
+Date:   Wed Oct 12 22:01:07 2022 +0530
+
+    Commit1_learner added
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
