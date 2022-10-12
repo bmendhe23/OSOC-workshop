@@ -1,0 +1,10 @@
+1. git config:This command is used to specify username and email that you will use to commit your file.
+2. git init: The git init command creates a new Git repository. 
+3. git clone: Git clone is primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location.
+4. git status: The git status command is our key to Git’s mind.
+5. git add: To move files from the Working Directory to the Staging Index, use the git add command. 
+6. git commit: This command pushes the contents of your local repository to the remote repository you’ve added. 
+7. git branch: Add a new branch to an existing branch, list all existing branches, and delete a branch with git branch.
+8. git checkout: We can use the git checkout command to switch to an existing branch or to create and switch to a new one.
+9. git merge: The history of the specified branch is merged into the current branch with this command.
+10. git log: The git log command is used to show all of a repository’s commits.
