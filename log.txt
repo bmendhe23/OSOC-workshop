@@ -1,0 +1,31 @@
+commit 663c21c18062515e8c274a4713ffa94261432bb8
+Author: Shivam <shibbu207@outlook.com>
+Date:   Wed Oct 12 14:30:57 2022 +0530
+
+     added to OSOC
+
+commit 71412fbc5a4495fa4c63ea871045938276662e9b
+Merge: 7387ccd fce7373
+Author: Shivam <shibbu207@outlook.com>
+Date:   Wed Oct 12 14:08:15 2022 +0530
+
+    Merge branch 'learner'
+    merged Learner
+
+commit fce737315a4023d716991c62498dacc544c574f0
+Author: Shivam <shibbu207@outlook.com>
+Date:   Wed Oct 12 13:56:52 2022 +0530
+
+    added : commit1_Learner.txt
+
+commit 7387ccdb5646d9a47a8e80321fe91ae92ba5fb4a
+Author: Shivam <shibbu207@outlook.com>
+Date:   Wed Oct 12 13:54:04 2022 +0530
+
+    added : commit1_main.txt
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
