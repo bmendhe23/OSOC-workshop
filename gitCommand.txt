@@ -1,0 +1,12 @@
+GIT COMMANDS AND THEIR USES
+
+1. git add <filename> ---> it adds the file from working directory to staging index
+2. git commit ---> it adds the files present in staging index to commit tree
+3. git log ---> it tells the commit history
+4. git branch <branchname> ---> it create a new branch with name <branchname>
+5. git checkout <branchname> ---> it takes the head from current branch to the <branchname>
+6. git reset ---> it changes undo local changes to the state of git repo
+7. git clean ---> it deletes untracked files
+8. git clone <completelink> ---> it clones repository present in the given link
+9. git merge <branchname> ---> it merges the currently woring brach and the given branch in <branchname>
+10. git push ---> it pushes all the changes in the github repository
