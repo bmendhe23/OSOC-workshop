@@ -1,0 +1,48 @@
+commit acbf3d1019ba8343ae4a7f8bc7743179b737d933
+Author: Abhiusnees Nandi <abhiusnees.live36@gmail.com>
+Date:   Wed Oct 12 19:54:09 2022 +0530
+
+    added: Screenshots
+
+commit 493e86254ebf4d7e0e0197cce78ef4ae58c9b646
+Author: Abhiusnees Nandi <abhiusnees.live36@gmail.com>
+Date:   Wed Oct 12 19:34:25 2022 +0530
+
+    added: 004_Abhiusnees.txt in OSOC branch
+
+commit 415922b5c7f8101058975267f4978a673e89cf1f
+Author: Abhiusnees Nandi <abhiusnees.live36@gmail.com>
+Date:   Wed Oct 12 19:31:35 2022 +0530
+
+    added: commands.txt in OSOC branch
+
+commit 9c9ef110e110a8357e108d9e964ed5d23c6e3a0d
+Merge: cf31273 fc26c90
+Author: Abhiusnees Nandi <abhiusnees.live36@gmail.com>
+Date:   Wed Oct 12 19:08:42 2022 +0530
+
+    Merge branch 'Learner'
+
+commit fc26c9033204963f50593a6e16db82adb854c0da
+Author: Abhiusnees Nandi <abhiusnees.live36@gmail.com>
+Date:   Wed Oct 12 19:07:05 2022 +0530
+
+    added: FileCommit3.txt in Learner Branch
+
+commit cf3127356e633578e42b0ee2dc9b00f7104b3d26
+Author: Abhiusnees Nandi <abhiusnees.live36@gmail.com>
+Date:   Wed Oct 12 19:05:04 2022 +0530
+
+    added: FileCommit2.txt in Master Branch
+
+commit f7442db9edc5410b009b705a804046031c3f05b8
+Author: Abhiusnees Nandi <abhiusnees.live36@gmail.com>
+Date:   Wed Oct 12 18:45:18 2022 +0530
+
+    Added: FileCommit1.txt in Learner Branch
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit

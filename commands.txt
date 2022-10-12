@@ -1,0 +1,12 @@
+**** 10 Git Commands ****
+
+1. git clone >>> used to clone an existing repository to work on locally.
+2. git init >>> creates a new Git repository
+3. git add >>> adds a change in the working directory to the staging area.
+4. git status >>> displays the state of the working directory and the staging area.
+5. git commit >>> used to commit the files in the staging area.
+6. git branch >>> create a new barnch/show existing branches.
+7. git checkout >>> to change the branch.
+8. git merge >>> used to merge two branches.
+9. git log >>> displays commited snapshots, lists the project history.
+10. git push >>> upload local repository content to a remote repository.
