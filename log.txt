@@ -1,0 +1,25 @@
+commit 18252c58950660b1f4c727c4d3dcfa06e25a7772
+Merge: 6e61cad ef43e8a
+Author: kholop longkho <kholoplongkho422@gmail.com>
+Date:   Wed Oct 12 22:40:03 2022 +0530
+
+    Merge branch 'learner'
+    Merge Learner
+
+commit 6e61cad2f0ecbbbdaa34275b93f107a2050b6ed7
+Author: kholop longkho <kholoplongkho422@gmail.com>
+Date:   Wed Oct 12 22:39:01 2022 +0530
+
+    added main.txt
+
+commit ef43e8abdda7377395cf842ede9d600b8b179886
+Author: kholop longkho <kholoplongkho422@gmail.com>
+Date:   Wed Oct 12 22:37:18 2022 +0530
+
+    added learner.txt
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
