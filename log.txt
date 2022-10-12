@@ -1,0 +1,48 @@
+commit b795cfd903bd3d7802cdeb8ff3054f921a141476
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Wed Oct 12 23:17:43 2022 +0530
+
+    Added All Screenshots in a Folder
+
+commit 7e7e6734dc164d7d0a33c087e0c71523b06e1473
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Wed Oct 12 23:03:28 2022 +0530
+
+    commit2_OSOC.txt added
+
+commit d3472ec2c4cc8ec4680a56b4a3883b81ae80e6f4
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Wed Oct 12 23:01:26 2022 +0530
+
+    commit1_OSOC.txt added
+
+commit 91110f4b93e7d71227770a1b383574f58ba5f3d0
+Merge: b15bc4c bffb78e
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Wed Oct 12 22:53:48 2022 +0530
+
+    Merge branch 'Learner'
+
+commit bffb78e59448fc46770e2fbbdce85955d0963cf4
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Wed Oct 12 22:53:18 2022 +0530
+
+    commit2_Learner Added
+
+commit b15bc4ceb3a072496f90f6ceec707b53dc59eba9
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Wed Oct 12 22:51:42 2022 +0530
+
+    commit1_main Added
+
+commit 3ac036d9206b3eb684a7192e86424b228405294e
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Wed Oct 12 22:25:25 2022 +0530
+
+    added: commit1_learner.txt
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
