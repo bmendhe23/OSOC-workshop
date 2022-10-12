@@ -1,0 +1,11 @@
+1. git add - git add command is used to bring the file on state make it ready for commmit
+2. git commit - git commit command captures a snapshot of the project's currently staged changes
+3. git clone - git clone  makes an identical copy of  a project in a repository and saves it to our computer.
+4. git branch - git branch is used for creating, listing and deleting branches.
+5. git checkout - git checkout is used for switching from one branch to another.
+6. git status - git status is used to check the status of current branch
+7. git push - git push is used to uploads the changes or the commits made in the remote repository
+8. git pull - git pull is used to get the updates from the remote repository
+9. git merge - git mege is used to merging the branch with the parent branch 
+10. git log - git log command displays all of the commits in a repository's history with all its description
+
