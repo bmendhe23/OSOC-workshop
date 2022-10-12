@@ -1,0 +1,25 @@
+commit e8b97d07f8a509c579f40d3f1ea9246f738de5a4
+Merge: 7a3493a aa17e47
+Author: utkarsharma18 <utkarsharma18@gmail.com>
+Date:   Wed Oct 12 22:00:28 2022 +0530
+
+    Merge branch 'Learner'
+    merged Learner
+
+commit 7a3493a85e6f8c72f6bc860ad18f9d649123714d
+Author: utkarsharma18 <utkarsharma18@gmail.com>
+Date:   Wed Oct 12 22:00:01 2022 +0530
+
+    added commit1_main.txt
+
+commit aa17e4767c2591da9e5273b5b9a40649b5c1654e
+Author: utkarsharma18 <utkarsharma18@gmail.com>
+Date:   Wed Oct 12 21:57:14 2022 +0530
+
+    added Learner.txt
+
+commit dfa008ea1749aa748c3fc5d829073ce17c065f90
+Author: Bhushan Mendhe <bhushanmendhe15@gmail.com>
+Date:   Sat Oct 8 00:17:12 2022 +0530
+
+    Initial commit
