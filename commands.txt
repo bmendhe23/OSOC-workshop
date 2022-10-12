@@ -1,0 +1,29 @@
+1. GIT CLONE: Used to download exiating source code from a remote repo .
+              git clone <link of the repo.
+
+2. GIT BRANCH: Helps developers to work on the same project parallely at the same time.Can be used to create,list and delete branches.
+               git branch <branch name>.
+
+3. GIT CHECKOUT: To switch between branches, checkout command is used.
+                 git checkout <branch-name>.
+
+4. GIT STATUS: Status gives all the necessary details and info about the current branch.
+               git status
+
+5. GIT ADD: To include all the changes like creation,modification and deletion of files into the next commit we use add command.
+            git add <file> or git add . .
+
+6. GIT COMMIT: Its like a saving command, i.e. commit saves the changes in a file locally.
+               git commit -m "<message>".
+
+7. GIT PUSH: After saving or commiting the changes the next thing we do is to send the changes to the remote server.Push command uploads the commits on the remote repo.
+             git push <remote> <branch-name>
+
+8. GIT PULL: Used to get updates from the remote repo.It fetches and applies the latest changes in the local repo.
+             git pull <remote>
+
+9. GIT REVERT: USed to undo the changes we made.We have to specify the hash code next to the commit that we like to undo.
+               git revert <hash code of the commit wanted to undo>
+
+10. GIT MERGE: After completing the work in our branch we have to merge it with the parent or the main branch.
+               git merge <branch-name>.
