@@ -1,0 +1,48 @@
+1. git init
+	When creating a new project directory and type command git init initialize a Git repository for our local project folder.
+	Git will create a hidden .git directory and use it for keeping its files organized in other subdirectories.
+
+
+2. git add
+	When creating a new file or updating new files the git needs to know about the changes made in the repository.
+	Using git add will add the specified files into Git repository, the staging area, where they are already being tracked by Git and now ready to be committed.
+
+
+3. git commit
+	git commit -m "message"
+	This command records or snapshots files permanently in the version history, All the files, which are there in the directory right now, are being saved in the Git file system.
+
+
+4. git status
+	Show the status of the exiting file and the file addition status of new file, if any, that has to be committed.
+
+
+5. git remote
+	Once everything is ready on our local system, we can push our code to remote repository of project.
+	Generally remote is used to add repository into the GitHub for further usage.
+
+6. git push
+	If any changes or addition of file is done on our local system, the remote repository should also be up to date.
+	git push is used to sync the files and folders on local system with the remote repository on Github.
+
+
+7. git clone
+	When we want to work on file(s) that is on remote Github repository as another developer. We Can work by cloning the repository,
+	For cloning we can use the link of the repository under the code section and use git clone <link>.
+	The following repository will get added to local system under the current directory.
+
+
+8. git checkout
+	git branch is used to create a branch under a working branch(generally main/master).
+	git checkout is used to switch from one branch to another branch. We can create a new branch and switch to it by git checkout -b <branch_name>.
+	By default git checkout -b will base the new branch off the current HEAD. We can branch the new branch to the required by using git checkout -b <new_branch> <existing_branch>.
+
+
+9. git merge
+	git merge is used to merge the branches to the parent branch i.e generally head. We can merge the branch by switching to main branch and using git merge <branch_name>.
+	All the files created or updated under the new branch is updated on the main branch.
+
+
+10. git config
+	When we have a remote repository, we will need to add a remote repo url to local git config and set an upstream branch for our local branches.
+	git config command lets us configure username, or email. It lets us configure our git installation from the command line.
